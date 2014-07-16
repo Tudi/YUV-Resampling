@@ -1,0 +1,1 @@
+Project created to individually test Bicubic, Biliniar, Liniar, Liniar SSE2 resampleres on HD sized input.You should use one that is quality oriented, the issue is that you can not afford it when encoding multiple live h264 streams.
